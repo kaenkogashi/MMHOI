@@ -24,8 +24,9 @@ If you wish to download the MMHOI dataset, please send your request directly to 
   </p>
 
   <div align="center"> 
-    <img width="2734" height="764" alt="mmhoi" src="https://github.com/user-attachments/assets/bae38d33-44a2-4dd5-b0a6-31ff124d79df" />
+    <img width="2734" height="764" alt="top" src="https://github.com/user-attachments/assets/ab992e7d-377c-4fbc-baa2-e53dd76fca54" />
   </div>
+
 
   
 
