@@ -1,5 +1,6 @@
 # MMHOI
-MMHOI (MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions) of Winter Conference on Applications of Computer Vision (WACV), 2026
+MMHOI (MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions) of Winter Conference on Applications of Computer Vision (WACV), 2026.
+
 Our paper has been accepted for WACV ROUND 1. (85/1000)
 
 If you wish to download the MMHOI dataset, please send your request directly to kogashi@merl.com.
