@@ -3,7 +3,8 @@ MMHOI (MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions) of Wint
 
 Our paper has been accepted for WACV ROUND 1. (85/1000)
 
-If you wish to download the MMHOI dataset, please send your request directly to kogashi@merl.com.
+Download the MMHOI dataset here.
+https://zenodo.org/records/17711786
 
 <p align="center">
   <h1 align="center">MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions</h1>
