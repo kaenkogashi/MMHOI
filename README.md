@@ -7,7 +7,7 @@ Download the MMHOI dataset here.
 https://zenodo.org/records/17711786
 
 <p align="center">
-  <h1 align="center">MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions</h1>
+  <h1 align="center">MMHOI-v2: Modeling Complex 3D Multi-Human Multi-Object Interactions</h1>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/kaen-kogashi-583a7b152/">Kaen Kogashi</a><sup>&dagger;</sup>,
