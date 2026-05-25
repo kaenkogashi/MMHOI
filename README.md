@@ -30,5 +30,16 @@ https://zenodo.org/records/17711786
   </div>
 
 
-  
+We also have released MMHOI-v2 annotation as below.
+We add object-part affordance segmentation.
+<img width="743" height="438" alt="image" src="https://github.com/user-attachments/assets/dfce5520-77e0-4fcb-8e29-788e2661dd4a" />
+
+You can annotate the object-part affordance segmentation via MeshLab.
+<img width="1104" height="786" alt="image" src="https://github.com/user-attachments/assets/b0201eff-b7ca-4895-b9e4-4a24e36fe3ad" />
+After activating the “Select Faces in a rectangular region” tool, the target area is manually specified on the mesh surface, as indicated by the pink region in the figure.
+
+As mentioned above, you can add your own object-part affordance segmentation annotations.
+If you would like to download MMHOI-v2, please email us to kaenkogashi@gmail.com.
+
+
 
